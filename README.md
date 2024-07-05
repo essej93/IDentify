@@ -1,6 +1,7 @@
 # IDentify
 
-Summary:
+## Summary:
+
 Identify is a university project that was worked on by a group of 6 students over the course of a year which was developed with the intent to provide services to businesses which handle different forms of ID cards on a regular basis. It allows business users and their customers to submit images of different forms of ID which is then processed by our Image Processing Server (IPS) where it will handle the skew correction, cropping, card classification and extracting the text using an OCR model. The IPS has been developed in a way that allows easy implementation of new forms of ID if requested by business customers. 
 
 We provide a way for businesses to quickly create an account within the system and start using our product in a matter of minutes, which includes the previously mentioned services as well as a company management system, a way to view previously scanned ID cards, card collection points, QR generation and form generation. 
