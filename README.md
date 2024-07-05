@@ -15,11 +15,11 @@ An API was setup to handle requests for the above mentioned services and encrypt
 
 The IPS uses machine learning where a model was trained to identify a Card within the image, from there it the image would be cropped and corrected before using zero shot classification/feature matching based on a provided reference image to determine the type of card that has been captured.
 
-([Images/IPS pipeline.png](https://github.com/essej93/IDentify/blob/76eda5cd61bda6c3597bf397644b4cffd39c4899/Images/IPS%20pipeline.png))
+![Images/IPS pipeline.png](https://github.com/essej93/IDentify/blob/76eda5cd61bda6c3597bf397644b4cffd39c4899/Images/IPS%20pipeline.png)
 
 ### Overall system architecture:
 
-([Images/API to IPS.png](https://github.com/essej93/IDentify/blob/76eda5cd61bda6c3597bf397644b4cffd39c4899/Images/IPS%20pipeline.png))
+![Images/API to IPS.png](https://github.com/essej93/IDentify/blob/76eda5cd61bda6c3597bf397644b4cffd39c4899/Images/IPS%20pipeline.png)
 
 To run:
 To deploy the system, run the deployment.sh script and it should do the rest.
