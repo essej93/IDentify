@@ -19,7 +19,7 @@ The IPS uses machine learning where a model was trained to identify a Card withi
 
 ### Overall system architecture:
 
-![Images/API to IPS.png](https://github.com/essej93/IDentify/blob/76eda5cd61bda6c3597bf397644b4cffd39c4899/Images/IPS%20pipeline.png)
+![Images/API to IPS.png](https://github.com/essej93/IDentify/blob/9380abf13866a4a4f94cc3bcf3c7d73541f08e24/Images/API%20to%20IPS.png)
 
 To run:
 To deploy the system, run the deployment.sh script and it should do the rest.
